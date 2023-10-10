@@ -9,5 +9,8 @@ public class Mamun {
         System.out.println("Tiger");
         System.out.println("rose red");
         System.out.println("pink red");
+        System.out.println("Dhaka");
+        System.out.println("Comilla");
+        System.out.println("NY");
     }
 }
