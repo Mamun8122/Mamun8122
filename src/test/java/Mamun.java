@@ -11,7 +11,6 @@ public class Mamun {
         System.out.println("rose red");
         System.out.println("pink red");
         System.out.println("Afganistn");
-        System.out.println("Dhaka");
         System.out.println("Comilla");
         System.out.println("NY");
         System.out.println("FL");
